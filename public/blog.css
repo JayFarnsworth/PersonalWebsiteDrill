@@ -1,0 +1,44 @@
+.img-round {
+  height: 20vh;
+  width: auto;
+  margin-right: 70vw;
+}
+.hero {
+  height: 40vh;
+}
+.bloglogo {
+  margin-left: 10vw;
+  margin-top: 3vh;
+}
+h1, h3, h4, h5 {
+  font-family: sans-serif;
+  color: black;
+  font-weight: bold;
+  margin: 1rem 0;
+}
+h1 {
+  text-decoration: underline overline;
+  font-size: 1.8rem;
+}
+h3 {
+  font-size: 1.3rem;
+}
+h4 {
+  font-size: 1.2rem;
+}
+h5 {
+  font-size: 1rem;
+  mar
+}
+p {
+  font-size: 1rem;
+  font-family: sans-serif;
+  line-height: 1.3rem;
+}
+.blogtextbox {
+  width: 80vw;
+  margin-left: 10vw;
+}
+.passthrough {
+  height: 40vh;
+}
